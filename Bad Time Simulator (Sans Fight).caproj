@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <c2project>
-    <name>Fast Time Simulator (Sans Fight)</name>
-    <description>do you wanna have a bad time? &apos;cause if you visit this page... you are REALLY not going to like what happens next.</description>
+    <name>Fast Time Simulator (Sonic the Hedgehog fight)</name>
+    <description>do you wanna have a fast time? &apos;cause if you visit this page... you've REALLY gotta go fast.</description>
     <version>1.0.0.0</version>
-    <author>Jcw87</author>
+    <author>Ethan</author>
     <author-email></author-email>
     <author-website>http://</author-website>
     <app-id>com.jcw87.badtime</app-id>
